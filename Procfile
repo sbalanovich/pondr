@@ -1,0 +1,1 @@
+web: gunicorn pondr_test.wsgi --log-file -
